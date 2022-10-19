@@ -1,3 +1,13 @@
+aksbbajsbjbajsbajsfbsalfbsjkasfblaflaflabflabflabflaf
+
 Murilo César da Rocha Sirino
 Eu gosto de batata
+<<<<<<< HEAD
 ...................................................
+=======
+
+mudanças
+mudanças
+mudanças
+
+>>>>>>> master
